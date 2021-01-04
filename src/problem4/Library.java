@@ -170,8 +170,7 @@ public class Library {
 //        // Print the titles of available from the first library
         System.out.println("Books available in the first library:");
         firstLibrary.printAvailableBooks();
-        String number = "1234";
-        System.out.println(number.charAt(number.length() - 1));
+ 
     }
 }
 
